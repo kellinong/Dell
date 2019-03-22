@@ -7,7 +7,7 @@ let isMyturn = true
 //let oppSkill = 'low'
 //let mySkill = 'low'
 //let attacker = true ? 123: 456 //condition to check -> If (true) = 123 else = 456
-let currentPokemon = myPokemon
+//let currentPokemon = myPokemon
 
 console.log('Your enemy has appear ' + opponent)
 console.log(myPokemon + ' enter battle field')
