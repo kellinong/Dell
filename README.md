@@ -10,4 +10,3 @@ For console programs requiring user input, the `readline-sync` library is also i
 import { question } from "readline-sync";
 
 const name = question("What is your name?\n");
-```
